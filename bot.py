@@ -3,7 +3,7 @@ import discord
 import random
 
 #special token unique for every bot/user
-TOKEN = 'OTMxNTE5MTk3MTYxMzQ1MDU0.YeFm2w.8_oyoATkwL0ydf5Y3T0UZrrx5bg'
+TOKEN = 'token will come here'
 
 #adding the bot to the server
 client = discord.Client()
